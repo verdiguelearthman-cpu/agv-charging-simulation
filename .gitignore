@@ -1,0 +1,16 @@
+# Compiled binaries
+src/agv_charging
+*.o
+*.out
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
